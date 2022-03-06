@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Haris Koulouris
+    name: Haris(Charalampos Koulouris)
     tagline: Researcher in Drones, AI, Cubesats, IoT
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: harikoulouri@gmail.com
-    phone: 00306937932384
+    phone: +306937932384
     citizenship: Greek
     website: harikoulouri.github.io
     linkedin: C Koulouris
@@ -60,15 +60,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a researcher in Drones with a mixture of Artificial Inteligence, control Theory and Rf Communcations.
-      I like also Physics and Astronomy, I did a project with a cubesat the lambdasat.com
-      My passion as hoby are sports and music, where I play the clarinet and guitar since I was a kid(typical corfiot).
-      
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - PhD Studies: Industrial Engineering Department, University of West Attica
-    - degree: Master of Computer Engineering
-      university: University of Portsmouth
-      time: 2002 - 2006
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,11 +78,21 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: PhD Researcher
-      time: 2019 - Present
-      company: University of West Attica, Athens
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -94,12 +105,15 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Ionian University
-      time: 2007 - 2011
-      company: Ionian University, Corfu Greece
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        Web Development and monitoring of web portals, IT Support and Administration,
-        Lecturing in Computer Science.
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
     - role: UI Developer
@@ -147,20 +161,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: "Artificial Intelligence for Decision Making in Electronic Remote Identification of Drones"
+      - title: The Art of Computer Programming
         link: "#"
-        authors: Charalampos Koulouris, Piromalis Dimitrios, Izzat Al-Darraji, Georgios Tsaramirsis
-        conference: To be published
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: "Towards Space Sensor Network and Internet of Space Things: Merging Cubesats with IoT"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
-        authors: Charalampos Koulouris, Piromalis Dimitrios, Izzat Al-Darraji, Georgios Tsaramirsis
-        conference: ICi4, Abu Dhabi, 2022
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A Survey Study and Comparison of Drones Communication systems
+      - title: A syntax directed compiler for Algol 60
         link: "#"
-        authors: Charalampos Koulouris, Piromalis Dimitrios, Izzat Al-Darraji, Georgios Tsaramirsis
-        conference: ICi4, Abu Dhabi, 2022
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
